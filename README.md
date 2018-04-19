@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to My Test Github Page
 
-You can use the [editor on GitHub](https://github.com/franziM/TestRepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a small test to check if I want to use GitHub Pages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Headline
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Github Pages use Markdown. That's a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
