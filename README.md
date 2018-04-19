@@ -1,7 +1,7 @@
 ## Welcome to My Test Github Page
 
 This is a small test to check if I want to use GitHub Pages.
-See https://github.com/franziM/TestRepo/Hello.html
+See TestRepo/Hello.html
 
 ### Headline
 
